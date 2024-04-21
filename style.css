@@ -1,0 +1,7 @@
+*{
+    table, th, td{
+        border: 3px dashed darkgoldenrod;}
+    background-color: rgb(12, 89, 114);
+    color: pink;
+    font-size: 25px
+}
